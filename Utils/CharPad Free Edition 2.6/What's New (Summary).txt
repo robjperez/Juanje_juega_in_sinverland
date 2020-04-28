@@ -1,0 +1,103 @@
+
+
+CharPad - What's New (Summary).
+
+
+nb. Items marked '*' are only available in CharPad "Thalamus" Edtion.
+
+
+- General...
+
+*  .Colour Palette Editor (RGB, HSL, YUV formats) with various filters and file I/O.
+*  .Tile naming/tagging.
+*  .Copy/paste between program instances.
+   .One-click export of all essential binaries.
+   .Conversion from per-char to per-tile colouring using suitable tests/warnings.
+   .Countless code optimizations and bug-fixes.
+
+
+- Compressor/Decompressor...
+
+  .Sort characters by colour (ascending).
+  .Sort tiles by colour (ascending). 
+
+
+- Image Import...
+
+  .Increased capacity up to 500,000 character images (was 65536).
+  .Much faster algorithm. 
+
+
+- Text Export...
+
+  .Char-set, Tile-set, Map data.
+* .Map data can now be exported in 12 and 16 bit formats (12/16-bit allows more than 256 tiles).
+* .Map data split into "flexi-grid" defined sub-maps.
+  .Map data by selected area only.
+* .Tile "events" subroutine placeholders (using tile names/labels).
+  .Char/Tile usage statistics.
+
+
+- Char Editor...
+
+  .Next/Previous item with keyboard shortcut (F1/F2).
+  .Zoom level in status bar.
+  .Zoom level shortcut (CTRL + mouse wheel).
+
+
+- Char Set...
+
+  .Box highlighting of "current" items (left/right mouse buttons).
+  .Next/Previous item with keyboard shortcut (F1/F2).
+  .Mouse wheel for vertical scroll.
+  .Zoom level in status bar.
+  .Zoom level shortcut (CTRL + mouse wheel).
+
+
+- Tile Editor...
+
+  .Maximum tile size is now 10 x 10. 
+  .Char "Picker" tool.
+* .Naming of tiles + value (byte) tagging.
+  .Next/Previous item with keyboard shortcut (F1/F2).
+  .Zoom level in status bar.
+  .Zoom level shortcut (CTRL + mouse wheel).
+
+
+- Tile Set...
+
+  .Box highlighting of "current" items (left/right mouse buttons).
+  .Next/Previous item with keyboard shortcut (F1/F2).
+  .Mouse wheel for vertical scroll.
+  .Zoom level in status bar.
+  .Zoom level shortcut (CTRL + mouse wheel).
+
+
+- Map Editor...
+
+* .Text Entry (typing) tool with choice of key-maps (ASCII, PETSCII, etc).
+  .Box highlighting of "current" cell.
+  .Area fill (solid/incremental). 
+* ."Flexi-Grid" feature for dividing the map into regular parts (for data export as sub-maps).
+  .Delete row/column.
+  .Insert blank row/column. 
+  .Dimensions of the selected area shown in status bar.
+  .Mouse wheel for vertical scroll.
+  .Zoom level in status bar.
+  .Zoom level shortcut (CTRL + mouse wheel).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
