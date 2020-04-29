@@ -9,6 +9,7 @@ Folder Description
 | 	|--Bitmaps (Bitmap arts made with Timanthes)
 |
 |--- Util (Every Software used in game development)
+	|--cc65 (The compiler)
 	|--CharPad Free Edition 2.6 (Character Editor)
 	|--CharPadCompress (To compress Screens*)
 	|--SpritePad 1.8 (Sprite Editor)
